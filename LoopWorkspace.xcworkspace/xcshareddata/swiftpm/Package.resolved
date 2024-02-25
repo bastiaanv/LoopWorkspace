@@ -6,7 +6,7 @@
       "location" : "https://github.com/amplitude/Amplitude-iOS.git",
       "state" : {
         "branch" : "main",
-        "revision" : "e818b182f5c3d5ce5035deab90bca108175b3561"
+        "revision" : "c3cb4810a021ccd172caaed33bef5f400899f599"
       }
     },
     {
@@ -14,8 +14,8 @@
       "kind" : "remoteSourceControl",
       "location" : "https://github.com/amplitude/analytics-connector-ios.git",
       "state" : {
-        "revision" : "d3d682a26ca6f4947ece2c2e627971bb41b940fa",
-        "version" : "1.0.1"
+        "revision" : "b44981119e2efc0edd1d2e26831c3c4c0e0264e6",
+        "version" : "1.0.0"
       }
     },
     {
@@ -60,7 +60,7 @@
       "location" : "https://github.com/LoopKit/NightscoutKit",
       "state" : {
         "branch" : "main",
-        "revision" : "ca8e2cea82ab465282cd180ce01d64c1cf25478d"
+        "revision" : "54c668c7154eca0ccd7b5714e1d206e488cd1bd9"
       }
     },
     {
@@ -77,7 +77,7 @@
       "location" : "https://github.com/no-comment/SlideButton",
       "state" : {
         "branch" : "main",
-        "revision" : "5eacebba4d7deeb693592bc9a62ab2d2181e133b"
+        "revision" : "82e907608fbd42cc23232bdb0c1720c288dbca2f"
       }
     },
     {
@@ -86,25 +86,7 @@
       "location" : "https://github.com/ivanschuetz/SwiftCharts",
       "state" : {
         "branch" : "master",
-        "revision" : "c354c1945bb35a1f01b665b22474f6db28cba4a2"
-      }
-    },
-    {
-      "identity" : "tidepoolkit",
-      "kind" : "remoteSourceControl",
-      "location" : "https://github.com/tidepool-org/TidepoolKit",
-      "state" : {
-        "branch" : "dev",
-        "revision" : "54045c2e7d720dcd8a0909037772dcd6f54f0158"
-      }
-    },
-    {
-      "identity" : "zipfoundation",
-      "kind" : "remoteSourceControl",
-      "location" : "https://github.com/LoopKit/ZIPFoundation.git",
-      "state" : {
-        "branch" : "stream-entry",
-        "revision" : "c67b7509ec82ee2b4b0ab3f97742b94ed9692494"
+        "revision" : "3d011f67eccb1ffa622fbfccb1348eed80309ae8"
       }
     }
   ],
