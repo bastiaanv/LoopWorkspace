@@ -37,15 +37,6 @@
       }
     },
     {
-      "identity" : "mixpanel-swift",
-      "kind" : "remoteSourceControl",
-      "location" : "https://github.com/mixpanel/mixpanel-swift.git",
-      "state" : {
-        "branch" : "master",
-        "revision" : "9438b4a5f76bf2108b09f8fed1abbad8f353e1a2"
-      }
-    },
-    {
       "identity" : "mkringprogressview",
       "kind" : "remoteSourceControl",
       "location" : "https://github.com/maxkonovalov/MKRingProgressView.git",
@@ -87,6 +78,24 @@
       "state" : {
         "branch" : "master",
         "revision" : "3d011f67eccb1ffa622fbfccb1348eed80309ae8"
+      }
+    },
+    {
+      "identity" : "tidepoolkit",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/tidepool-org/TidepoolKit",
+      "state" : {
+        "branch" : "dev",
+        "revision" : "54045c2e7d720dcd8a0909037772dcd6f54f0158"
+      }
+    },
+    {
+      "identity" : "zipfoundation",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/LoopKit/ZIPFoundation.git",
+      "state" : {
+        "branch" : "stream-entry",
+        "revision" : "c67b7509ec82ee2b4b0ab3f97742b94ed9692494"
       }
     }
   ],
